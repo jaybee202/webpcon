@@ -1,7 +1,7 @@
 # WebpCon
 
 ## Inspiration
-A friend told me to try OpenAI's updated image generation. After noticing that Spotify allows you to add your own custom playlist icons, I had the perfect use case. After quickly generating a few great images, I realized that ChatGPT's images are in .webp format, which is not compatible with Spotify (which requires .png or .jpg). Since I was already using ChatGPT, it helped me create this program, README.txt, and requirements.txt in just seven prompts.
+A friend told me to try OpenAI's updated image generation. After noticing that Spotify allows you to add your own custom playlist icons, I had the perfect use case. After quickly generating a few great images, I realized that ChatGPT's images are in .webp format, which is not compatible with Spotify (which requires .png or .jpg). Since I was already using ChatGPT, used it to create this program, README.txt, and requirements.txt in just seven prompts.
 
 If you ever find yourself with a bunch of .webp files, you can use this program to convert them to .png or .jpg—individually, by folder, or for an entire repository.
 
