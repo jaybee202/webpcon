@@ -1,5 +1,8 @@
 # WebpCon
 
+## Inspiration
+A friend told me to try OpenAI's updated image generation.  After noticing that spotify allows you to add your own custom playlist icons, I had a perfect use case.  After quickly getting a few great artifacts I realized that ChatGPTs images are .webp and that as not compatable with Spotify (required .png/.jpg).  I was already in ChatGPT so it helped me create this program, readme.txt, and requirements.txt in seven prompts.
+
 ## Description
 WebpCon is a simple GUI application built using PyQt5 that allows users to convert `.webp` images to `.png` or `.jpg` formats. Users can select either a single file or an entire folder for conversion, with an option to include subfolders.
 
@@ -32,7 +35,4 @@ pip install -r requirements.txt
 
 ## License
 This project is licensed under the MIT License.
-
-## Author
-Created by [Your Name].
 
